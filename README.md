@@ -8,3 +8,5 @@ APIs are essential in modern software development as they are an application's b
 
 FastAPI Backend:\
 It will serve as the interface for handling API requests and responses. FastAPI is chosen for its ease of use, performance, and intuitive design.
+
+![image-131](https://github.com/RATHOD-SHUBHAM/FastAPI/assets/58945964/7dcfd8bb-186f-431c-9cbc-47abc03e176d)
